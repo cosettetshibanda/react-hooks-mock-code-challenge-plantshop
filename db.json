@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Spider Plant",
+      "image": "https://www.rd.com/wp-content/uploads/2022/11/RD-spider-plants-GettyImages-1131755692-JVedit.jpg",
+      "price": "25",
+      "id": 9
     }
   ]
 }
